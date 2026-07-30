@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Atharva Shelar
 
-<!--
-**atharva1145/atharva1145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & Analytics) Student
 
-Here are some ideas to get you started:
+💻 Java Developer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Java
+- DSA
+- Web Development
+- Machine Learning
+
+## 🛠 Tech Stack
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 🚀 Goals
+
+- Build Full Stack Projects
+- Master DSA
+- Learn Spring Boot
+- Contribute to Open Source
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/atharva1145
